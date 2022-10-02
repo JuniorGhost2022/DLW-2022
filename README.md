@@ -2,7 +2,6 @@
 
 
 
-CHANGE BRANCH FROM MAIN BRANCH TO MASTER BRANCH IF NO CODE IS FOUND
 
 
 
@@ -41,6 +40,8 @@ You can install the dependencies by running the following command :
 1. For dividing the frames of video into different regions, the code was inspired from [here](https://github.com/uvipen/AirGesture).
 
 2. For controlling keyboard keys, the code was inspired from [here](https://github.com/andohuman/pyKey).
+
+
 
 
 
